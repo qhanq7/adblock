@@ -3,4 +3,4 @@
 ! Expires: 1 day
 ! Version: 20210103
 
-##a[href*="//we-719.com"]
+##a[href*="//www.we-719.com"]
